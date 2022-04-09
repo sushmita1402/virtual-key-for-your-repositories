@@ -64,7 +64,7 @@ Plan more than two sprints to complete the application
 
 Document the flow of the application and prepare a flow chart 
 
-![Flowchart](WhatsApp Image 2022-04-09 at 1.44.35 PM.jpeg)
+![Flowchart]()![WhatsApp Image 2022-04-09 at 1 44 35 PM](https://user-images.githubusercontent.com/78425375/162563484-f0237277-3d0d-4957-98df-925b685cb93f.jpeg)
 
 List the core concepts and algorithms being used to complete this application
 
